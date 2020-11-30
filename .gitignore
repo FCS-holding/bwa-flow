@@ -1,0 +1,26 @@
+config.mk
+*.csv
+*.html
+*.o
+*.err
+*.txt
+*.out
+*.bak
+
+# logs
+*.log*
+*.INFO*
+*.WARNING*
+*.ERROR*
+
+*.png
+*.dat
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+
+build
+run.sh
